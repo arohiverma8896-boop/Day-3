@@ -1,0 +1,46 @@
+# Day 3 – Role-Based Prompting
+
+## Objective
+To understand how assigning different roles changes Claude's responses.
+
+---
+
+## Prompt 1: Without Role
+
+**Prompt:**
+How can I become a successful Full Stack Web Developer with AI skills?
+
+**Observation:**
+Claude provided general advice, including learning programming, building projects, practicing regularly, and improving problem-solving skills.
+
+---
+
+## Prompt 2: Founder Role
+
+**Prompt:**
+You are an experienced startup founder.
+
+How can I become a successful Full Stack Web Developer with AI skills?
+
+**Observation:**
+Claude focused on long-term career growth, product thinking, business value, networking, personal branding, and creating real-world solutions.
+
+---
+
+## Prompt 3: Developer Role
+
+**Prompt:**
+You are a senior Full Stack Software Developer and AI mentor.
+
+How can I become a successful Full Stack Web Developer with AI skills?
+
+**Observation:**
+Claude provided a detailed technical roadmap, recommended technologies, project ideas, GitHub portfolio improvements, and AI development skills.
+
+---
+
+# Comparison
+
+| Prompt Type | Response Style |
+|-------------|----------------|
+|
